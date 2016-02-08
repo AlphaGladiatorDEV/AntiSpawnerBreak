@@ -1,0 +1,5 @@
+name: AntiSpawnerBreak
+main: me.alphagladiator.asb.Main
+version: 1.0.1.7
+author: AlphaGladiator
+description: A plugin for Iciest that prevents spawner breaking.
